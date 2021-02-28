@@ -1,7 +1,7 @@
 ## Welcome to Xiang Li's Page
 Working experiences:
 
-### 2021.2-Now                                                  QingCloud Beijing Ltd.  Technical writer      
+### 2021.2-Now                                                  QingCloud Beijing Ltd.   Technical writer      
 Responsibilities:
 
 •	Own the documents of Low-Code Development Platform (LCDP) based on cloud computing PaaS:
@@ -10,10 +10,11 @@ Responsibilities:
 •	Write the documents for Service Center which contains tickets, notification and quota management functions.
 
 Skills learned in QingCloud:
+
 •	Cloud computing knowledge, LCDP knowledge, and tools (Hugo, GitHub, FastStone Capture)
 
 
-### 2015.3-2020.10                                                 Nokia Chengdu Ltd.  Technical writer      
+### 2015.3-2020.10                                                 Nokia Chengdu Ltd.   Technical writer      
 Responsibilities:
 
 •	Own the operational documents of six products:
@@ -29,12 +30,12 @@ Skills learned in Nokia:
 •	Telecom knowledge, Dita knowledge, XML, and tools (Tortoise SVN, Inkscape, oXygen, JIRA, Confluence Wiki, Pronto, FileZilla, Jenkins, Microsoft 365, Acrobat Reader and Professional, Pure text, Green shot, Putty, Notepad++, Adobe Photoshop, Adobe Illustrator)
 
 
-### 2014.6-2015.3                                                      Running park NGO  Volunteer      
+### 2014.6-2015.3                                                      Running park NGO   Volunteer      
 •	Collect and analyze big data from runners to help NGO find target customers, in order to support strategy making.
 •	Design and write the handbook of NGO for market promotion. 
 
 
-### 2008.7-2014.5                                                   Intel Chengdu Ltd.  Yield engineer      
+### 2008.7-2014.5                                                   Intel Chengdu Ltd.   Yield engineer      
 Responsibilities:
 •	Own the yield indicators of four products (HSW ULT, Ivybridge, NHM-EP, and Penryn):
 -	Summarize yield data and report to management team weekly. 
