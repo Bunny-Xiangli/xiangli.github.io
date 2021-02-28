@@ -38,9 +38,9 @@ Responsibilities:
 -	Take charge of Assembly and Test yield, analyze big data to dig out root cause, and set goals for each location.
 -	Cooperate with quality engineers to optimize the reject criteria to achieve the best performance.
 -	Yield of products:
-	HSW ULT PIYL improves 3% and hit FEB PIYL goal. The project of “Optimization of MI02 Damage Die” is awarded by Chengdu site.
-	Ivybridge is the leading product to replace the naked-eyes check with machine check, which ensures the quality of image standardization. Within 2 quarters, Ivybridge speeds up to hit the yield goal and the team is awarded by Chengdu site.
-	Solving FI26 and Bin9 problems contributes on 2% increase on NEM-EP yield goal, which is awarded by Chengdu site.
+  * HSW ULT PIYL improves 3% and hit FEB PIYL goal. The project of “Optimization of MI02 Damage Die” is awarded by Chengdu site.
+  * Ivybridge is the leading product to replace the naked-eyes check with machine check, which ensures the quality of image standardization. Within 2 quarters, Ivybridge speeds up to hit the yield goal and the team is awarded by Chengdu site.
+  * Solving FI26 and Bin9 problems contributes on 2% increase on NEM-EP yield goal, which is awarded by Chengdu site.
 •	Engage in three projects (selective 2A, MET, and non-synergy build), based on ROI results, re-design processes to hit quality and yield requirements under limited resources.
 •	Working as a Si integrator, communicate with Die Prep, Fab, and other Intel sites to early detect issues and solve them.
 Abroad working experiences (total one year with four times):
