@@ -8,6 +8,7 @@ Responsibilities:
 -	Use Hugo to build up a static website and publish on GitHub.
 -	Be familiar with the documents of leading-edge companies. For example, Salesforce and Ali.
 •	Write the documents for Service Center which contains tickets, notification and quota management functions.
+
 Skills learned in QingCloud:
 •	Cloud computing knowledge, LCDP knowledge, and tools (Hugo, GitHub, FastStone Capture)
 
