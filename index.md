@@ -3,6 +3,7 @@ Working experiences:
 
 ### 2021.2-Now                                                  QingCloud Beijing Ltd.  Technical writer      
 Responsibilities:
+
 •	Own the documents of Low-Code Development Platform (LCDP) based on cloud computing PaaS:
 -	Use Hugo to build up a static website and publish on GitHub.
 -	Be familiar with the documents of leading-edge companies. For example, Salesforce and Ali.
@@ -13,6 +14,7 @@ Skills learned in QingCloud:
 
 ### 2015.3-2020.10                                                 Nokia Chengdu Ltd.  Technical writer      
 Responsibilities:
+
 •	Own the operational documents of six products:
 -	For 5G, create new documents based on communications with product owners and R&D engineers. Optimize the customer integration document with 40% cut-off pages, and join in the pilot test in the 5G fast pass transformation. As a result, six 5G versions are successfully delivered with recognitions from R&D center.
 -	For 2G, Q3, ISDK, IMS, and OIB, improve and maintain documents based on the features or issues.
