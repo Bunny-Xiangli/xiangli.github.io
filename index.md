@@ -26,6 +26,7 @@ Responsibilities:
 •	Participate in a global project to build up NSWTC SharePoint for technical communications from 2017 to 2020.
 •	Drive the innovation projects on behalf of CuDo department and achieved 6 accepted innovation ideas in 2016.
 •	Gain TianFu Talent Award in 2019.
+
 Skills learned in Nokia:
 •	Telecom knowledge, Dita knowledge, XML, and tools (Tortoise SVN, Inkscape, oXygen, JIRA, Confluence Wiki, Pronto, FileZilla, Jenkins, Microsoft 365, Acrobat Reader and Professional, Pure text, Green shot, Putty, Notepad++, Adobe Photoshop, Adobe Illustrator)
 
@@ -37,6 +38,7 @@ Skills learned in Nokia:
 
 ### 2008.7-2014.5                                                   Intel Chengdu Ltd.   Yield engineer      
 Responsibilities:
+
 •	Own the yield indicators of four products (HSW ULT, Ivybridge, NHM-EP, and Penryn):
 -	Summarize yield data and report to management team weekly. 
 -	Take charge of Assembly and Test yield, analyze big data to dig out root cause, and set goals for each location.
@@ -52,6 +54,7 @@ Abroad working experiences (total one year with four times):
 •	In Phoenix, 5 months of training Ivybridge, learn failure mechanisms and differences compared to legacy products. Engage in preparing data and presenting Factory Cert White Paper. The success is awarded by US ATM center. 
 •	In Phoenix, 4 months of training DFM, learn the ecosystem of DFM technology to improve manufacturing quality. Draft and finalize Reject Validation specifications after multiple rounds of global meetings. The achievement made by DFM teamwork is awarded by Intel ATM global management team.
 •	In Vietnam Ho Chi Minh city, join in ATM Technical Event for DFM demo and exhibition.
+
 Skills learned in Intel:
 •	Manufacturing technology, Si knowledge, Problem solving, Commonality analysis, Design and Analysis Experiment, Defect free manufacturing technology, Presentation skills, STATS, Communication skills in multicultural environment, Trainer of commonality analysis and DFM courses, and tools (JMP, CATTS, EATS, Crystalball, Microsoft)
 
